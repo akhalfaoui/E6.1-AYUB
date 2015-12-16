@@ -1,0 +1,158 @@
+ a {
+	display: inline-block;
+    color: white;
+    padding: 14px 15px;
+    text-decoration: none;	
+    margin-left: -4px;
+    font-family: Arial;
+    font-size: 90%;
+}
+
+ul{
+    margin: -10px;
+	padding: 0;
+    background-color: #333;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+ a:hover {
+	color: #7FFF00;
+	background-color: black;
+
+}
+
+.active {
+	color: #7FFF00;
+	background-color: black;
+}
+
+.button {
+    text-align: center ;
+
+    
+}
+
+.backbutton {
+	border-right: none;
+	border-top: none;
+	border-left: none;
+	border-color: none;
+	background: none;
+	font: monospace;
+	padding: 10px 20px 10px 20px;
+	text-transform: capitalize;
+	min-width: 300px;
+}
+
+.backbutton:hover {
+	border-color: #7FFF00;
+	cursor: pointer;
+}
+
+.backbutton:focus {
+	border-color: #7FFF00;
+}
+
+.espaciostb {
+	margin: 10px;
+	border-top: black;
+}
+
+table, th, td {
+    border: 2px solid #333;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+.color{
+	color: #FF0000;
+}
+
+.backgroundcolor {
+	color: #2DC751;
+}
+
+.backgroundimage {
+	background-image: url(http://fotosdeanimes.com/wp-content/uploads/2015/09/fotos-animadas-con-movimiento-1.gif);
+	background-size: 100%;
+	background-position: 0px;
+	color: black;
+}
+
+
+.backgroundrepeat {
+	color: black;
+	background-image: url(http://fotosdeanimes.com/wp-content/uploads/2015/09/fotos-animadas-con-movimiento-1.gif);
+	background-size: 70%;
+	background-position: center;
+	background-repeat: repeat-x;
+}
+
+.fontsize {
+	font-size: 80%;
+}
+
+.fontweight {
+	font-weight: 800;
+}
+
+.fontfamily {
+	font-family: Verdana;
+}
+
+.fontalign {
+	text-align: center;
+}
+.texttransform{
+	text-transform: uppercase;
+}
+
+.border{
+	border-color: blue;
+}
+
+.liststyletype{
+	list-style-type: disc;
+}
+
+.textdecoration{
+	text-decoration: line-through;
+}
+
+.padding  {
+	padding-left: 50px;
+}
+
+.margin{
+	margin-left: 30px;
+}
+
+.backg {
+	background-color: white;
+}
+
+.radiotb {
+	margin-right: 5px;
+	padding: 5px;
+	position: fixed;
+	border-radius: 10px 10px 10px 10px;
+	border: 3px solid #333;
+	background: #333;
+	
+}
+
+table {
+	font-family: Arial;
+	font-size: 90%;
+	background: white;
+}
+
+.justificado {
+	text-align: justify;
+}
+
+body {
+	font-family: Arial;
+	font-size: 15px;
+}
